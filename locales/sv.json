@@ -1,0 +1,10 @@
+{
+  "navigation": {
+    "home": "Hem",
+    "blog": "Insikter",
+    "language": "Språk"
+  },
+  "footer": {
+    "copyright": "Alla rättigheter förbehållna"
+  }
+}
