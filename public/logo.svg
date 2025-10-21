@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title>Codex Studio</title>
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f766e" />
+      <stop offset="100%" stop-color="#14b8a6" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="#0f172a" />
+  <path d="M160 128h120c66 0 120 54 120 120s-54 120-120 120h-64v16h-56V128Zm56 56v128h64c35.3 0 64-28.7 64-64s-28.7-64-64-64h-64Z" fill="url(#grad)" />
+</svg>
