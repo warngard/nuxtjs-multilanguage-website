@@ -1,0 +1,10 @@
+{
+  "navigation": {
+    "home": "Home",
+    "blog": "Insights",
+    "language": "Language"
+  },
+  "footer": {
+    "copyright": "All rights reserved"
+  }
+}
